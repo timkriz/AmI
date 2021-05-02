@@ -2,7 +2,7 @@
 
 
 
-## Installation
+## Installation (TUI) 
 
 1. SOCKET STREŽNIK:
 
@@ -41,3 +41,10 @@ navzgor zamenja barvo, navzdol ugasne luč. Ko obrnjen na hrbtno stran preide v 
 Simulation Unity project  (200MB) : https://drive.google.com/drive/folders/1WFl5rDGeqKjDngxLF9Ril2OmdCuGUhRi?usp=sharing
 
 ![Simulation](https://github.com/timkriz/AmI/blob/main/Images/simulation2.png)
+
+
+## Installation (GUI) *in progress
+
+![Gui part](https://github.com/timkriz/AmI/blob/main/Images/gui1.png)
+
+
