@@ -17,7 +17,7 @@ node app.js
 
 Zaženi node-red, importaj flow iz mape Flows, deploy.
 
-![Simulation](https://github.com/timkriz/AmI/blob/main/Images/tui_flow.png)
+![Tui](https://github.com/timkriz/AmI/blob/main/Images/tui.png)
 TUI Node-red flow
 
 3. APLIKACIJA SENSOR NODE FREE:
