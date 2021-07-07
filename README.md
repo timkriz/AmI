@@ -43,7 +43,7 @@ Simulation Unity project  (200MB) : https://drive.google.com/drive/folders/1WFl5
 ![Simulation](https://github.com/timkriz/AmI/blob/main/Images/simulation2.png)
 
 
-## Installation (GUI) *in progress
+## Installation (GUI) 
 
 Ob vstopu v aplikacijo dodamo novega odjemalca s klikom na gumb »+«, v zgornjem desnem kotu. Vnesemo podatke MQTT strežnika (ime, naslov, port in unikaten »topic«).
 Po ustvarjenem odjemalcu, na prazno polje dodamo gumbe z ikonami.:
