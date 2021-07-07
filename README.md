@@ -45,6 +45,20 @@ Simulation Unity project  (200MB) : https://drive.google.com/drive/folders/1WFl5
 
 ## Installation (GUI) *in progress
 
+Ob vstopu v aplikacijo dodamo novega odjemalca s klikom na gumb »+«, v zgornjem desnem kotu. Vnesemo podatke MQTT strežnika (ime, naslov, port in unikaten »topic«).
+Po ustvarjenem odjemalcu, na prazno polje dodamo gumbe z ikonami.:
+1.	ON/OFF… tipa switch/button, subtopic: AMI_TO_TUI/onoff,  payload: On: 1 in Off: 0
+2.	CHANGE COLOR… tipa switch/button, subtopic: AMI_TO_TUI/color,  payload: On: 1 in Off: 0
+3.	INC/DEC… tipa Multi choice, subtopic: AMI_TO_TUI/incdec (dodajanje opcij z »ADD OPTION«)  
+  a.	OPTION1:  payload: 1, label: increase  
+  b.	OPTION2:  payload: -1, label: decrease  
+  c.	OPTION3:  payload: 0, label: stop  
+4.	Device… tipa Multi choice, subtopic: AMI_TO_TUI/device  
+  a.	OPTION1:  payload: LEFT_LIGHT, label: Left light  
+  b.	OPTION2:  payload: RIGHT_LIGHT, label: Right light  
+  c.	OPTION3:  payload: BLINDS, label: Blinds  
+  d.	OPTION4:  payload: ALL_LIGHTS, label: All lights  
+
 
 ![Gui part](https://github.com/timkriz/AmI/blob/main/Images/GUI_image.png)
 
