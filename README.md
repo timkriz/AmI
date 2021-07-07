@@ -45,6 +45,7 @@ Simulation Unity project  (200MB) : https://drive.google.com/drive/folders/1WFl5
 
 ## Installation (GUI) *in progress
 
-![Gui part](https://github.com/timkriz/AmI/blob/main/Images/gui1.png)
+
+![Gui part](https://github.com/timkriz/AmI/blob/main/Images/GUI_image.png)
 
 
