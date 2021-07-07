@@ -38,7 +38,9 @@ navzgor zamenja barvo, navzdol ugasne luč. Ko obrnjen na hrbtno stran preide v 
 
 ## Simulation
 
-Simulation Unity project  (200MB) : https://drive.google.com/drive/folders/1WFl5rDGeqKjDngxLF9Ril2OmdCuGUhRi?usp=sharing
+Simulation Unity project (2017,2018,2020 versions, 200MB) : https://drive.google.com/drive/folders/1WFl5rDGeqKjDngxLF9Ril2OmdCuGUhRi?usp=sharing
+
+Priporočeno, da uporabite kar zgrajeno aplikacijo v mapi build: Na voljo na istem naslovu. 
 
 ![Simulation](https://github.com/timkriz/AmI/blob/main/Images/simulation2.png)
 
