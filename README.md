@@ -9,6 +9,7 @@
 V mapi Simulation/node_server zaženi ukaz:
 
 ```
+npm install
 node app.js
 ```
 (zažene websocket strežnik za komuniciranje z unityem)
