@@ -37,6 +37,10 @@ Unity projekt.
 Zaženi simulacijo. Nagibaj telefon. V desno/levo povečuje/zmanjšuje intenziteto,
 navzgor zamenja barvo, navzdol ugasne luč. Ko obrnjen na hrbtno stran preide v način upravljanja posameznih naprav, ki se jih izbira z vrtenjem v levo/desno.
 
+5. TUI + AUDIO VERSION
+
+Prenesi aplikacijo RedMobileLite za Android telefon. Zaženi strežnik in odpri node-red v brskalniku. Uvozi flow TUI+AUDIO.json in odpri node-red Dashboard. Telefon sedaj uporablja TTS text-to-speech in bere izvedene ukaze (ob obračanju telefona).
+
 ## Simulation
 
 Simulation Unity project (2017,2018,2020 versions, 200MB) : https://drive.google.com/drive/folders/1WFl5rDGeqKjDngxLF9Ril2OmdCuGUhRi?usp=sharing
