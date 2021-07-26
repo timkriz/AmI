@@ -1,6 +1,6 @@
 # AmI: To TUI or not to TUI
 
-
+AmI: To TUI or not to TUI je študetnski projekt pri predmetu Ambientna Inteligenca, Fakulteta za elektrotehniko UL, 2021. Namen projekta je bila primerjava grafičnih in oprijemljivih vmesnikov na konkretnem primeru uporabe v ambientni inteligenci. Izhodiščna podlaga je bil članek »To TUI or not to TUI: Evaluating performance and preference in tangible vs. graphical user interfaces« (Zuckerman, 2013). V njem po neuspehu raziskovanja teoretičnih podlag, avtor izvede še uporabniško testiranje z meritvami izvedbe in preference na konkretnem primeru. Na podobnem pristopu temelji ta projekt – podane bodo teoretične osnove iz literature, kratka analiza področja, opis dela ter predstavljeni in evalvirani rezultati uporabniškega testiranja.  
 
 ## Installation (TUI) 
 
